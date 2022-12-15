@@ -1,1 +1,1 @@
-test1.c-main
+test1.c-hsoh
