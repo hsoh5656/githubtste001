@@ -1,1 +1,1 @@
-test1.c
+test1.c-main
